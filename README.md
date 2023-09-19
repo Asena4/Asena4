@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asena4
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on SQL projects
 - 📫 Reach me on Twitter @AsenaKevin
